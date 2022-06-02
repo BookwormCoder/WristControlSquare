@@ -1,0 +1,76 @@
+body{
+background-image:url("https://i.pinimg.com/originals/bd/ef/31/bdef31f664010979c0c0acce2af552ea.gif");
+}
+
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+    letter-spacing: 3px;
+}
+
+.note{
+    font-size:15px;
+    color:black;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:midnightblue;
+    line-height:3;
+    text-align:center;
+}
+
+
+         
+.btn-grad {
+    background-image: linear-gradient(to right, #C04848 0%, #480048  51%, #C04848  100%);
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
+
+
+         
+.btn-grad2 {
+    background-image: linear-gradient(to right, #000428 0%, #004e92  51%, #000428  100%);
+    padding: 7px 25px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad2:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
